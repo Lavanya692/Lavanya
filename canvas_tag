@@ -1,0 +1,35 @@
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Canvas Example Program</title>
+<style>
+body, html {
+height:100%;
+margin:0;
+display:flex;
+justify-content:center;
+align-items: center;
+}
+canvas
+{
+border:4px solid brown;
+}
+</style>
+</head>
+<body>
+<canvas id="myCanvas" width="400" height="400"></canvas>
+<script>
+var canvas = document.getElementById('myCanvas');
+var ctx = canvas.getContext('2d');
+ctx.fillStyle = 'lavender';
+ctx.fillRect(60,60,140,140);
+ctx.beginPath();
+ctx.arc(300,200,50,0,2 * Math.PI);
+ctx.fillStyle='yellow';
+ctx.fill();
+ctx.strokeStyle='blue';
+ctx.lineWidth=3;
+ctx.stroke();
+</script>
+</body>
+</html>
