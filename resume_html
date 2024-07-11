@@ -1,0 +1,84 @@
+<html>
+<head>
+<title>Resume</title>
+</head>
+<body>
+
+<p>Lavanya A<br>
+Masters of Computer Applications.<br>
+Phone: 7019736681<br>
+Email: lavanyaanbu2002@gmail.com</p>
+
+<section>
+<h4>Objectives:</h4>
+<p>To build a professional career by working with motivated and dedicated people in a very competitive and structured organizational environment.</p>
+</section>
+
+<section>
+<h4>Education:</h4>
+<p>Jyoti Nivas College Autonomous, Post Graduate Center, Bangalore.<br>
+2023 - 2025.<br>
+Masters of Computer Application.<br>
+Pursuing.</p>
+
+<ul>
+<li>St. Francis de Sales Degree College, Bangalore.</li>
+<p>2020 - 2023.<br>
+Bachelors of Computer Application.<br>
+CGPA: 8.4 </p>
+
+<li>St. Francis de Sales PU College, Bangalore.</li>
+<p>2018 - 2020.<br>
+PUC (EBAC), Karnataka Pre-University Board.<br>
+Percentage: 83.83%</p>
+
+<li>Shree Sharada Group of Institutions, Bangalore.</li>
+<p>2018.<br>
+SSLC, Karnataka Secondary Education Examination Board.<br>
+Percentage: 81.60% </p>
+</ul></section>
+
+<section>
+<h4>Skills:</h4>
+<ul>
+<li>Java</li>
+<li>C++</li>
+<li> C</li>
+<li>SQL</li>
+<li> HTML</li>
+<li>Tally</li>
+</ul></section>
+
+<section>
+<h4>Hobbies:</h4>
+<ul>
+<li>Dancing</li>
+<li>Cooking</li>
+<li>Reading books.</li>
+</ul></section>
+
+<section>
+<h4>Projects:</h4>
+<ul>
+<li>Mini Project on Canteen Management System.</li>
+<li>Android Development Project on Note making.</li>
+</ul></section>
+
+<section>
+<h4>Languages known:</h4>
+<ul>
+<li>English</li>
+<li>Tamil</li>
+<li>Kannada</li>
+<li>Hindi</li>
+<li>Telugu.</li>
+</ul></section>
+
+<h4>Certifications:</h4>
+<p>PHP and MySql Training.</p>
+
+<h4>Declaration:</h4>
+<p>I hereby declare that the particulars mentioned above are correct to the best of my knowledge and belief.</p>
+
+</body>
+</html>
